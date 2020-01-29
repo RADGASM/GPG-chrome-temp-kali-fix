@@ -1,0 +1,6 @@
+sudo apt-key adv --recv-keys --keyserver keyserver.ubuntu.com [key i.e.78BD65473CB3BD13]
+# This will allow the creation of new keys and signatures
+
+# Then run the following:
+sudo apt update
+sudo apt-get update
