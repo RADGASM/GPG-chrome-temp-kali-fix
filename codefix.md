@@ -9,7 +9,8 @@ sudo apt-key adv --recv-keys --keyserver keyserver.ubuntu.com [key]
 ## Then run the following:
 
 sudo apt update
-sudo apt-get update
+
+then sudo apt-get update
 ![Apt update and Apt Get Update](https://user-images.githubusercontent.com/31832154/73324630-93d44880-4219-11ea-85c8-f9ccea4e873e.PNG)
 
 
