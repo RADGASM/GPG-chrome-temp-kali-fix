@@ -1,4 +1,5 @@
 sudo apt-key adv --recv-keys --keyserver keyserver.ubuntu.com [key]
+
 # This will allow the creation of new keys and signatures
 
 # Then run the following:
